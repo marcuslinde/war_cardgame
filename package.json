@@ -1,0 +1,23 @@
+{
+  "name": "cardgame",
+  "version": "1.0.0",
+  "description": "A simple browser-based card game built with JavaScript. The project separates game logic from UI for maintainability and scalability.",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "vitest",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "vite": "^6.3.3",
+    "vitest": "^3.1.2"
+  },
+  "keywords": []
+}
